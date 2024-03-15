@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(202, 155, 238);
+}
+.title {
+    font-size: 1em;
+    color: rgb(9, 9, 9);
+    font-size: 30px;
+}
+
+.cards{
+    border: 2px solid black;
+    width: fit-content;
+    padding: 0px 1em 0px 1em ;
+}
+
+.logo{
+    width: 300px;
+}
+
+#principal{
+    font-size: 70px;
+    color: rgb(184, 67, 44);
+    padding: 0px 1em 0px 1em
+}
+
+#crds-container{
+    width: 85vw;
+    margin: auto;
+    margin-top: 1.5em;
+    border: 5px solid rgb rgb(27, 210, 128);
+    border-radius: 5%;
+    padding: 2em;
+    display: flex;
+    flex-direction: row;  
+    justify-content: space-around;
+
+}
+
